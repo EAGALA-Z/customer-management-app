@@ -22,6 +22,7 @@ It allows you to manage customers with multiple addresses, including:
 
 ## 📂 Project Structure
 
+```bash
 customer-management-app/
 │
 ├── backend/ # Express backend
@@ -41,7 +42,7 @@ customer-management-app/
 │ ├── package.json # Frontend dependencies
 │
 └── README.md # Project documentation
-
+```
 
 ---
 
